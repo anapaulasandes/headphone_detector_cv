@@ -1,1 +1,8 @@
+setuptools
 opencv-python
+mtcnn
+tensorflow-macos
+dlib
+mediapipe
+pyobjus
+plyer
